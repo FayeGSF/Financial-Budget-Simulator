@@ -1,4 +1,4 @@
-# COMP693_25S2_project_Shu_Fen_Goh_1162340
+# Financial Budget Simulator
 ## Setup
 ### 1. Pre-requisites / Software
 * Python 3.9 or higher
