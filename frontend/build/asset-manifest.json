@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56398c52.css",
+    "main.js": "/static/js/main.9b23a14e.js",
+    "static/js/453.670e15c7.chunk.js": "/static/js/453.670e15c7.chunk.js",
+    "static/media/moneyBank.jpg": "/static/media/moneyBank.31e8d8a03c6ea7aaf54d.jpg",
+    "static/media/logoWhiteText.png": "/static/media/logoWhiteText.b76733adbe8bbd449c01.png",
+    "static/media/saving.png": "/static/media/saving.c0b497b5cc48d8491599.png",
+    "static/media/whatIfIcon.png": "/static/media/whatIfIcon.f9987bdd2402fb8da8d3.png",
+    "static/media/graphIcon.png": "/static/media/graphIcon.ec4ac7a00b152677849d.png",
+    "index.html": "/index.html",
+    "main.56398c52.css.map": "/static/css/main.56398c52.css.map",
+    "main.9b23a14e.js.map": "/static/js/main.9b23a14e.js.map",
+    "453.670e15c7.chunk.js.map": "/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56398c52.css",
+    "static/js/main.9b23a14e.js"
+  ]
+}
